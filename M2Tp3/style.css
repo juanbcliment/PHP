@@ -1,0 +1,62 @@
+body{
+    background-image:url('https://img.freepik.com/foto-gratis/arbol-solitario_181624-46361.jpg?w=1380&t=st=1690985436~exp=1690986036~hmac=8aa786363e0ed17a5af42dcebc5fad213fd61dae6cf51901b1f41994f6e3d198');
+    background-size: 2000px 1000px;
+}
+.form {
+    
+    width: 90%;
+    margin: auto;
+    padding-top: 40px;
+    text-align: center;
+    color: #000000;
+}
+.inputForm {
+   
+    background: white;
+    display: flow-root;
+    width: 300px;
+    border: 1px solid;
+    border-radius: 5px;
+    border-bottom: 1px solid var(--colorTextos);
+    height: 30px;
+    text-align: center;
+    margin: auto;
+}
+.inputFormBody {
+    
+    background: white;
+    display: flow-root;
+    width: 300px;
+    border: 1px solid;
+    border-radius: 5px;
+    border-bottom: 1px solid var(--colorTextos);
+    height: 200px;
+    width: 600px;
+    margin: auto;
+
+}
+.inputFormArchivo {
+    background: white;
+    display: flow-root;
+    width: 300px;
+    border: 1px solid;
+    border-radius: 5px;
+    border-bottom: 1px solid var(--colorTextos);
+    height: 20px;
+    margin: auto;
+
+}
+.resultado{
+    color: #4AE341;
+    background-color: #000000;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+}
+.error{
+    color: red;
+    background-color: #000000;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+}
